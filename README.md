@@ -15,7 +15,9 @@ An employee from the Colorado Board of Elections has assigned the task of comple
 ## Resources
 
 The raw data can be found in the file: https://github.com/skgolden13/Election_Analysis/blob/main/Resources/election_results.csv
+
 The software used for the analysis was Python 3.6.1 and Visual Studio Code 1.66.0.
+
 The code used to generate the analysis results can be found at: https://github.com/skgolden13/Election_Analysis/blob/main/PyPoll_Challenge.py.py
 
 ## Election Audit Results
