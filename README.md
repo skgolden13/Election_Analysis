@@ -3,14 +3,14 @@
 ## Project Overview
 
 An employee from the Colorado Board of Elections has assigned the task of completing an audit of the results of a recent, local congressional election. He has requested the following:
-  - The total number of votes cast
-  - The total votes cast in each county
-  - The percentage of the total vote cast in each county
-  - The county with the largest number of votes cast
-  - A list of all candidates receiving votes
-  - The total votes each candidate received
-  - The percentage of votes each candidate received
-  - The winner of the election based on the popular vote along with their total votes and percentage of the total vote
+  - The total number of votes cast.
+  - The total votes cast in each county.
+  - The percentage of the total vote cast in each county.
+  - The county with the largest number of votes cast.
+  - A list of all candidates receiving votes.
+  - The total votes each candidate received.
+  - The percentage of votes each candidate received.
+  - The winner of the election based on the popular vote along with their total votes and percentage of the total vote.
 
 ## Resources
 
